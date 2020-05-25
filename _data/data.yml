@@ -29,13 +29,19 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Deep Learning Nanodegree (in progress)
         link:
 
-      - item: Snowboarding
+      - item: Into to Deep Learning using PyTorch
         link:
 
-      - item: Cooking
+      - item: Tensorflow from Basic to Mastery
+        link:
+      
+      - item: Machine Learning by Andrew NG
+        link:
+       
+      - item: Oracle certified SE6 Java Professional
         link:
 
 career-profile:
