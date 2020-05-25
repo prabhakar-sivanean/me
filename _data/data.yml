@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: sivanesanprabhakar@gmail.com
     phone: +91 887 004 5692
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: prabhakar-sivanesan
     github: prabhakar-sivanean
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 5799155 # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -43,12 +43,12 @@ career-profile:
     summary: |
       Focused professional having excellent technical and communication skill, and offering 4+ years of
       experience in the feild of Research, Innovation and Development. Profecient in Deep learning and Computer Vision Frameworks.
-      
-      Second paragraph if required.
+      Write code in multiple languages such as C++, Java, Python and Android. Yet still hungry, so learning GoLang.
+      Specialize in thinking outside the box to find unique solution to different problems.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Nanodegree - Deep Learning
+      university: Udacity
+      time: Apr,2020 - Aug,2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
