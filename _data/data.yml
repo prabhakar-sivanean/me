@@ -43,7 +43,7 @@ career-profile:
     summary: |
       Focused professional having excellent technical and communication skill, and offering 4+ years of
       experience in the feild of Research, Innovation and Development. Profecient in Deep learning and Computer Vision Frameworks.
-      Write code in multiple languages such as C++, Java, Python and Android. Yet still hungry, so learning GoLang.
+      Write code in multiple languages such as C++, Java, Python and Android. Yet still hungry, learning GoLang.
       Specialize in thinking outside the box to find unique solution to different problems.
 education:
     - degree: Nanodegree - Deep Learning
@@ -82,7 +82,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects done outside organization 
+      Projects mentioned below are developed outside organization upon interest and for the love of new technology. 
     assignments:
       - title: Car parking Assistant
         link: "#hook"
@@ -104,7 +104,7 @@ projects:
         link: "#"
         tagline: "Augumented Reality based mobile application to measure any object dimension in real world"
 
-publications:
+publication:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
