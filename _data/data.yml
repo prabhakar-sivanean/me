@@ -28,7 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-    Awards:
+    interests:
       - item: Climbing
         link:
 
@@ -50,11 +50,7 @@ education:
       university: Udacity
       time: Apr,2020 - Aug,2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
           - Bullet point
           - Bullet point
     - degree: BE in Computer Science
