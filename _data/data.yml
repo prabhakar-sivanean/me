@@ -53,7 +53,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BE in Computer Science
-      university: Sri Sairam Engineering College(Anna University) 
+      university: Sri Sairam Engineering College (Anna University) 
       time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -72,6 +72,7 @@ experiences:
         Brainstrome, Ideate and develop smart solutions for the real world problems in the feild of Travel, Transport and Hospitality using Computer
          Vision and Machine Learning frameworks. Expertise in developing Deep Learning models for Image, Video and Point cloud Data.
         Good at developing model from scratch and deploying it on Servers, mobile and edge devices. Also, have worked on IoT and Smart devices. 
+          
           - Skilled at Tensorflow, PyTorch, OpenCV and Python.
           - Research Interest: Deep Neural Networks, Recurrent Neural Networks and Generative Adviseral Networks
           - Top performer of the team for 4 years staright.
@@ -141,7 +142,7 @@ skills:
         level: 90%
 
       - name:  Deep Learning
-        level: 90%
+        level: 95%
 
       - name: Recurrent Neural Networks and LSTM
         level: 85%
