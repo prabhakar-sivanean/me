@@ -50,7 +50,6 @@ education:
       university: Udacity
       time: Apr,2020 - Aug,2020
       details: |
-        
           - Bullet point
           - Bullet point
     - degree: BE in Computer Science
@@ -69,15 +68,9 @@ experiences:
       time: July,2015 - Present
       company: Research and Innovations Lab - TCS, Chennai, INDIA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Experienced Researcher and Developer in the feild of Computer vision and Deep Leraning technologies. 
+        Ideate and develop smart solutions for the real world problems in the feild of Travel, Transport and Hospitality using Computer
+         Vision and other related Machine Learning frameworks. 
           - Bullet point
           - Bullet point
 projects:
