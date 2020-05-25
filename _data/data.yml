@@ -66,7 +66,7 @@ education:
 experiences:
     - role:  Computer Vision Engineer
       time: July,2015 - Present
-      company: Research and Innovations Lab - TCS, Chennai, INDIA
+      company: TCS - Research and Innovations, Chennai, INDIA
       details: |
         Experienced Researcher and Developer in the feild of Computer vision and Deep Leraning technologies. 
         Brainstrome, Ideate and develop smart solutions for the real world problems in the feild of Travel, Transport and Hospitality using Computer
@@ -82,29 +82,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projects done outside organization 
     assignments:
-      - title: Velocity
+      - title: Car parking Assistant
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Deep Learning application to identify the occupied and available slots in open car parking area"
 
-      - title: DevStudio
+      - title: License Plate Recognition
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Application to recognize the License number in a car using CNN"
 
-      - title: Tempo
+      - title: Social Distance Monitoring
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Computer vision application which monitors social distancing between people in public areas"
 
-      - title: Atom
+      - title: Railroad Inspection
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Application for Railroad health monitoring, identifying cracks and detecting anomaly such as missing parts."
 
-      - title: Delta
+      - title: ARMeasure
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Augumented Reality based mobile application to measure any object dimension in real world"
 
 publications:
     title: Publications
