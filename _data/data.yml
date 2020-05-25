@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sivanesanprabhakar@gmil.com
+    email: sivanesanprabhakar@gmail.com
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: prabhakar-sivanesan
+    github: prabhakar-sivanesan.github.io
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -27,12 +27,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
