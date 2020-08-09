@@ -29,8 +29,8 @@ sidebar:
         level: Native
 
     interests:
-      - item: Deep Learning Nanodegree (in progress)
-        link:
+      - item: Deep Learning Nanodegree
+        link: https://confirm.udacity.com/XVLMTRAW
 
       - item: Into to Deep Learning using PyTorch
         link:
