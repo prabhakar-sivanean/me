@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Focused professional having excellent technical and communication skill, and offering 5+ years of
+      Focused professional having excellent technical and communication skill, and offering 7+ years of
       experience in the field of Research, Innovation and Development. Proficient in Deep learning and Computer Vision Frameworks.
       Write code in multiple languages such as C++, Java, Python and Android. Yet still hungry, learning GoLang.
       Specialize in thinking outside the box to find unique solution to different problems.
@@ -84,7 +84,7 @@ experiences:
           - Research Interest: Deep Neural Networks, Recurrent Neural Networks and Generative Adviseral Networks.
           - Good understanding and work experience on IoT, smart devices and Robotics.
           - Good at developing Android Application.
-          - Top performer of the team for 4 years staright.
+          - Top performer of the team for 6 years staright.
 projects:
     title: Projects
     intro: >
@@ -94,17 +94,17 @@ projects:
         link: "#hook"
         tagline: "Deep Learning application to identify the occupied and available slots in open car parking area"
 
-      - title: License Plate Recognition
-        link: "#"
-        tagline: "Application to recognize the License number in a car using CNN"
+      - title: Custom Keypoint detection
+        link: "https://github.com/prabhakar-sivanesan/Custom-keypoint-detection"
+        tagline: "Application to train keypoint detection model on Custom dataset using TFOD API Centernet model with Hourglass backbone."
 
       - title: Social Distance Monitoring
-        link: "#"
+        link: "https://github.com/prabhakar-sivanesan/social-distancing"
         tagline: "Computer vision application which monitors social distancing between people in public areas"
 
-      - title: Railroad Inspection
-        link: "#"
-        tagline: "Application for Railroad health monitoring, identifying cracks and detecting anomaly such as missing parts."
+      - title: RTSP Server using OpenCV
+        link: "https://github.com/prabhakar-sivanesan/OpenCV-rtsp-server"
+        tagline: "Application to convert normal webcam feed into RTSP stream using Gstreamer."
 
       - title: ARMeasure
         link: "#"
