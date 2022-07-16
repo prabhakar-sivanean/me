@@ -90,21 +90,22 @@ projects:
     intro: >
       Projects mentioned below are developed outside organization upon interest and for the love of new technology. 
     assignments:
-      - title: Car parking Assistant
-        link: "#hook"
-        tagline: "Deep Learning application to identify the occupied and available slots in open car parking area"
-
+      
       - title: Custom Keypoint detection
         link: "https://github.com/prabhakar-sivanesan/Custom-keypoint-detection"
         tagline: "Application to train keypoint detection model on Custom dataset using TFOD API Centernet model with Hourglass backbone."
+        
+      - title: RTSP Server using OpenCV
+        link: "https://github.com/prabhakar-sivanesan/OpenCV-rtsp-server"
+        tagline: "Application to convert normal webcam feed into RTSP stream using Gstreamer."
+        
+      - title: MS Teams background changer
+        link: "https://github.com/prabhakar-sivanesan/MS-Teams-background-changer"
+        tagline: "Deep Learning Utility application to add background blur and custom background image to MS teams on Linux"
 
       - title: Social Distance Monitoring
         link: "https://github.com/prabhakar-sivanesan/social-distancing"
         tagline: "Computer vision application which monitors social distancing between people in public areas"
-
-      - title: RTSP Server using OpenCV
-        link: "https://github.com/prabhakar-sivanesan/OpenCV-rtsp-server"
-        tagline: "Application to convert normal webcam feed into RTSP stream using Gstreamer."
 
       - title: ARMeasure
         link: "#"
